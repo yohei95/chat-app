@@ -109,6 +109,7 @@
   height: 90px;
   padding: 20px 40px;
   display: flex;
+  width: 100%;
 }
 .form-input {
   background-color: white;
